@@ -1,0 +1,11 @@
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\ApplicationInsights.config
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\prjRealEstateRemax.dll.config
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\prjRealEstateRemax.dll
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\prjRealEstateRemax.pdb
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\obj\Debug\prjWebRealEstateRemax.csprojResolveAssemblyReference.cache
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\obj\Debug\prjRealEstateRemax.dll
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\obj\Debug\prjRealEstateRemax.pdb
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\BAL.dll
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\BAL.pdb
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\DAL.dll
+D:\Ion\OLD PC FULL\Studii\LaSalle\4_Hiver\prjRealEstateRemax\prjRealEstateRemax\bin\DAL.pdb
